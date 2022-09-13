@@ -1,0 +1,86 @@
+body {
+  height: fit-content;
+  background-color: hsl(210, 46%, 95%);
+  padding: 10% 5% 40% 5%;
+}
+
+h5 {
+    font-size: 13px;
+}
+
+p {
+    font-size: 8px;
+}
+
+.row{
+    
+   width: 60%;
+   margin-left: 10%;
+}
+#quotes {
+    width: 10%;
+    height: 10%;
+    position: relative;
+    left: 60%;
+}
+
+.one {
+    width: 120%;
+    height: 90%;
+    background-color: hsl(263, 55%, 52%);
+    color: white;
+    font-size: 13px;
+    
+
+}
+
+.two {
+    width: 70%;
+    height: 90%;
+    padding: 1% 4% 1%;
+    background-color:hsl(217, 19%, 35%);
+    color: white;
+    font-size: 13px;
+    position: relative;
+    left: 15%;
+   
+}
+
+.four {
+   
+    box-shadow: 2px 3px rgb(175, 175, 175);
+    width: 70%;
+    height: 90%;
+    padding: 1% 4% 1%;
+    font-size: 13px;
+    
+}
+
+.five {
+ 
+    width: 120%;
+    height: 90%;
+    background-color:hsl(219, 29%, 14%);
+    color: white;
+    padding: 1% 4% 2%;
+    font-size: 13px;
+    position: relative;
+    right: 35%;
+   
+}
+
+.last {
+    
+    width: 13%;
+    height: 61%;
+    position: absolute;
+    left: 65%;
+    bottom:20%;
+    box-shadow: 2px 3px rgb(131, 127, 127);
+}
+
+.card-title #pic {
+    height: 10%;
+    width: 10%;
+    border: 30px;
+}
